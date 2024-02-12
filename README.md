@@ -1,4 +1,4 @@
-# 布魯斯前端 React仿Instagram教學 初始專案
+
 
 ## 如何使用此專案？
 
@@ -25,7 +25,7 @@ npm run prettier
 
 ```
 
-## 如何啟動Json server？
+## 如何啟動 Json server？
 
 ```
 
@@ -33,7 +33,7 @@ npm run server
 
 ```
 
-## 測試API格式
+## 測試 API 格式
 
 ```
 file: db.json
@@ -43,8 +43,8 @@ file: db.json
   "posts": [
     {
       "id": 1,
-      "location": "布魯斯前端",
-      "account": "bruce_1234",
+      "location": "yu",
+      "account": "yu_1234",
       "avatar": "/images/avatars/a1.png",
       "photo": "/images/posts/main1.png",
       "likes": 999,
@@ -100,7 +100,7 @@ file: db.json
   "stories": [
     {
       "id": 1,
-      "name": "bruce_fe",
+      "name": "yu_fe",
       "avatar": "/images/avatars/a1.png"
     },
     {
@@ -145,7 +145,7 @@ file: db.json
     },
     {
       "id": 10,
-      "name": "bruce_fe",
+      "name": "yu_fe",
       "avatar": "/images/avatars/a10.png"
     }
   ]
